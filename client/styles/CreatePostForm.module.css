@@ -1,0 +1,29 @@
+.reactQuill {
+    width: 600px;
+}
+
+.postFormBtnGroup {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.postButton {
+    font-size: 12px;
+}
+
+
+.imageAvatar {
+    object-fit: cover;
+}
+
+.cameraIcon {
+    font-size: 30px;
+    color: rgb(101, 171, 236);
+    cursor: pointer;
+}
+
+.imageLoading {
+    padding: 10px;
+}

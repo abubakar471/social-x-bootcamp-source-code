@@ -1,0 +1,15 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn{
+    color : rgb(4, 136, 212);
+    cursor: pointer;
+}

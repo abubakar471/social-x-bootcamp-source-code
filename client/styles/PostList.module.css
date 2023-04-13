@@ -1,0 +1,49 @@
+.card {
+    width: 600px;
+    margin: 20px 0;
+    box-shadow: 0 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+/* .card{
+    width: 90%;
+    margin: 20px auto;
+} */
+
+.cardImage {
+    width: 100%;
+}
+
+.card__header {
+    display: flex;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 7px 5px;
+}
+
+.reactionDiv {
+    margin-top: 10px;
+    display: flex;
+    align-items: cnter;
+    justify-content: space-between;
+}
+
+.reactionandcomments {
+    display: flex;
+    align-items: center;
+}
+
+.reactionIcons {
+    color: red;
+    cursor: pointer;
+}
+
+.postEditAndDelete {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+
+.username {
+    margin: 0 5px;
+}
